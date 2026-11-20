@@ -27,7 +27,7 @@ Ayudo a pequeñas y medianas empresas a tomar mejores decisiones con sus número
 
 ### 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian_Jiménez-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian_Jiménez-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.[linkedin.com/in/TU-USUARIO](https://www.linkedin.com/in/cristian-camilo-jimenez-pedraza/))
 [![Metría](https://img.shields.io/badge/Web-Metría-000000?style=flat&logo=googlechrome&logoColor=white)](https://metriafinanciera.com)
 [![Email](https://img.shields.io/badge/Email-directorejecutivo%40metriafinanciera.com-555555?style=flat&logo=gmail&logoColor=white)](mailto:directorejecutivo@metriafinanciera.com)
 
