@@ -10,7 +10,6 @@ Ayudo a pequeñas y medianas empresas a tomar mejores decisiones con sus número
 
 - 📊 **Consultoría financiera** como director de [Metría Business Consulting](https://metriafinanciera.com): acompañamiento financiero mensual, flujo de caja, indicadores y valoración de empresas.
 - 🎓 **Docencia** en pregrado y MBA: Servicios Financieros, flujo de caja, indicadores financieros, presupuesto y marketing (Análisis de las 5 C).
-- 📖 **Autor** del libro *Si pudieras verte como yo te veo*, con versiones para hijo y para hija.
 
 ### 🌱 Lo que estoy aprendiendo
 
